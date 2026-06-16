@@ -1,4 +1,4 @@
-# CarePlus - Sprint 3 - API de Monitoramento de Estilo de Vida (MEV)
+# CarePlus - Sprint 4 - API de Monitoramento de Estilo de Vida (MEV)
 
 API REST para monitoramento de Mudanças no Estilo de Vida(MEV) de pacientes, permitindo o registro e acompanhamento de check-ins diários de alimentação, exercício, sono, estresse, interação social e uso de substâncias. Projetada para uso por médicos e pacientes.
 
